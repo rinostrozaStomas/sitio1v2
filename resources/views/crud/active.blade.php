@@ -34,7 +34,7 @@
  @stop
 
  @section('content')
-     <h2>Editar Tarea</h2>
+     <h2>Activar Tarea</h2>
 
      <form id="form-task">
          <div class="mb-3">
