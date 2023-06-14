@@ -28,4 +28,7 @@ Route::get('/crud/new', function () {
 Route::get('/crud/edit/{id}', function () {
     return view('crud.edit');
 });
+Route::get('/crud/active/{id}', function () {
+    return view('crud.active');
+});
  
